@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>MK71.2-NX404H</RomName>
+  <VersionName>201705291000</VersionName>
+  <VersionNumber type="integer">-201705291000</VersionNumber>
+  <DirectUrl>2</DirectUrl>
+  <HttpUrl>2</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>de f8 b1 e2 a7 32 4e d2 31 01 a5 8c f1 83 84 66 59 57 1e 47</CheckMD5>
+  <FileSize type="integer">5150836</FileSize>
+  <Developer>Sattarvoybek</Developer>
+  <AddonCount>1</AddonCount>
+  <AddonCount>2</AddonCount>
+  <AddonCount>3</AddonCount>
+  <AddonCount>4</AddonCount>
+  <AddonCount>5</AddonCount>
+  <AddonCount>6</AddonCount>
+  <AddonCount>7</AddonCount>
+  <AddonCount>8</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
+  <WebsiteURL>https://vk.com/sattar1989</WebsiteURL>
+  <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
+  <Changelog>** 
+    
+	* Добавил приложение ОТА
+     </Changelog>
+</ROM>

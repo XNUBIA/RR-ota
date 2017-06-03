@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Open gapps</name>
+            <description>nano</description>
+            <published-at>2017-06-03</published-at>
+            <size>195588737</size>
+            <download-link>2</download-link>
+        </addon>         
+    </addons>
+    <addons>
+        <addon>
+            <id>2</id>
+            <name>Open gapps</name>
+            <description>pico</description>
+            <published-at>2017-06-03</published-at>
+            <size>131839876</size>
+            <download-link>2</download-link>
+        </addon>         
+    </addons>
+	<addons>
+        <addon>
+            <id>3</id>
+            <name>Open gapps</name>
+            <description>micro</description>
+            <published-at>2017-06-03</published-at>
+            <size>226427849</size>
+            <download-link>2</download-link>
+        </addon>         
+    </addons>
+</hash>
