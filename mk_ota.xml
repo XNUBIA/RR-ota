@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>MK71.2-NX404H</RomName>
-  <VersionName>201705291000</VersionName>
-  <VersionNumber type="integer">-201705291000</VersionNumber>
-  <DirectUrl>2</DirectUrl>
-  <HttpUrl>2</HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>de f8 b1 e2 a7 32 4e d2 31 01 a5 8c f1 83 84 66 59 57 1e 47</CheckMD5>
-  <FileSize type="integer">5150836</FileSize>
-  <Developer>Sattarvoybek</Developer>
-  <AddonCount>1</AddonCount>
-  <AddonCount>2</AddonCount>
-  <AddonCount>3</AddonCount>
-  <AddonCount>4</AddonCount>
-  <AddonCount>5</AddonCount>
-  <AddonCount>6</AddonCount>
-  <AddonCount>7</AddonCount>
-  <AddonCount>8</AddonCount>
-  <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
-  <WebsiteURL>https://vk.com/sattar1989</WebsiteURL>
-  <DonateURL>https://money.yandex.ru/to/410012966283463?_openstat=template%3Bipulldown%3Btopupme</DonateURL>
-  <Changelog>** 
-    
-	* Добавил приложение ОТА
-     </Changelog>
+<RomName>MK71.2-NX404H</RomName>
+<VersionName>MK71.2-NX404H-201706011431-NIGHTLY</VersionName>
+<VersionNumber type="integer">201706011431</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706011431-NIGHTLY.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://goo.gl/LNcgtG]]></HttpUrl>
+<Android>7.1.1</Android>
+<CheckMD5>BCB01413FF581E7A80F6FC59DC882EB5</CheckMD5>
+<FileSize type="integer">25978816</FileSize>
+<Developer><![CDATA[Sattarvoybek]]></Developer>
+<WebsiteURL><![CDATA[https://goo.gl/fvqEXyh]]></WebsiteURL>
+<DonateURL><![CDATA[https://goo.gl/LNcgtG]]></DonateURL>
+<AddonCount>2</AddonCount>
+<AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
+<Changelog>
+<![CDATA[
+* Добавил приложение ОТА
+]]>
+</Changelog>
 </ROM>
