@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-<RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706011431-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170601</VersionNumber>
-<DirectUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</DirectUrl>
-<HttpUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</HttpUrl>
-<Android>7.1.2</Android>
-<CheckMD5>F7F2670F8F0F7DA3632E8B19928D264B</CheckMD5>
-<FileSize type="integer">25978305</FileSize>
-<Developer>Sattarvoybek</Developer>
-<WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
-<DonateURL>https://goo.gl/LNcgtG</DonateURL>
-<AddonCount>2</AddonCount>
-<AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
-<Changelog> ### Изменения
-* Добавил приложение ОТА
-</Changelog>
+  <RomName>MK71.2_NX404H_201706011431_NIGHTLY</RomName> 
+  <VersionName>1</VersionName>
+  <VersionNumber type="integer">20170604</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
+  <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">427349723</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <Developer>sattarvoybek</Developer> <!-- Ник, имя разработчика'ов -->
+  <Website nil="true" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
+  <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
+  <Changelog>
+     ** lite version 1.0.0
+  </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
