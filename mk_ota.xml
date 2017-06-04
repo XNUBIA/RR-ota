@@ -3,16 +3,15 @@
 <RomName>MK71.2-NX404H</RomName>
 <VersionName>MK71.2-NX404H-201706041312-NIGHTLY</VersionName>
 <VersionNumber type="integer">20170604</VersionNumber>
-<DirectUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</DirectUrl>
-<HttpUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</HttpUrl>
+<DirectUrl>https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706041312-NIGHTLY.zip/download</DirectUrl>
+<HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>F7F2670F8F0F7DA3632E8B19928D264B</CheckMD5>
-<FileSize type="integer">25978305</FileSize>
+<CheckMD5>906B137EAFEE2A548378BD4489C83713</CheckMD5>
+<FileSize type="integer">63287296</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
 <AddonCount>2</AddonCount>
 <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
-
 <Changelog> ### Изменения
  * 2017-06-01 
 * Исправлена камера видео записи
