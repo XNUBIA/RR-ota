@@ -10,10 +10,9 @@
 <FileSize type="integer">25978305</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
-<DonateURL>https://goo.gl/LNcgtG</DonateURL>
 <AddonCount>2</AddonCount>
 <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
-<Romhut>Sponsored by romhut.com</Romhut>  
+
 <Changelog> ### Изменения
  * 2017-06-01 
 * Исправлена камера видео записи
@@ -21,6 +20,7 @@
 * Синхронизация исходников Mokee OS(01/06/2017)
  * 2017-06-04 
 * Добавлено приложение FMRadio
-* Исправлено OTAUpdates   
+* Исправлено OTAUpdatee
+* Bootanimtion   
 </Changelog>
 </ROM>
