@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706011431-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170601</VersionNumber>
+<VersionName>MK71.2-NX404H-201706041312-NIGHTLY</VersionName>
+<VersionNumber type="integer">20170604</VersionNumber>
 <DirectUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</DirectUrl>
 <HttpUrl>https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/oWTB9TsT3JoviY</HttpUrl>
 <Android>7.1.2</Android>
