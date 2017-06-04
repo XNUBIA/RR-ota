@@ -14,6 +14,8 @@
 <AddonCount>2</AddonCount>
 <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
 <Changelog> ### Изменения
-* Добавил приложение ОТА
+* Исправлена камера видео записи
+* Добавлено приложение OTA Updates
+* Синхронизация исходников Mokee OS(01/06/2017)
 </Changelog>
 </ROM>
