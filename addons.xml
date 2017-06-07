@@ -30,4 +30,24 @@
             <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/gapps/open/open_gapps-arm-7.1-pico-20170603.zip/download</download-link>
         </addon>         
     </addons>
+	<addons>
+        <addon>
+            <id>4</id>
+            <name>ViPER4Android</name>
+            <description>2.5.0.5</description>
+            <published-at>20170423</published-at>
+            <size>5373952</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/ViPER4Android-2.5.0.5-20170423.zip/download</download-link>
+        </addon>         
+    </addons>	
+	<addons>
+        <addon>
+            <id>5</id>
+            <name>Reveal Audio Mod</name>
+            <description>Reveal Audio</description>
+            <published-at>31.05.17</published-at>
+            <size>4096</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/Reveal_Amplio.zip/download</download-link>
+        </addon>         
+    </addons>
 </hash>
