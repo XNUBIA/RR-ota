@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706041312-NIGHTLY</VersionName>
+<VersionName>MK71.2-NX404H-201706071253-NIGHTLY</VersionName>
 <VersionNumber type="integer">20170607</VersionNumber>
-<DirectUrl>https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706041312-NIGHTLY.zip/download</DirectUrl>
+<DirectUrl>https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706071253-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>906B137EAFEE2A548378BD4489C83713</CheckMD5>
-<FileSize type="integer">63287296</FileSize>
+<CheckMD5>1AFEBB821AD3D8345F8064654DBB38DF</CheckMD5>
+<FileSize type="integer">32116736</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
 <AddonCount>2</AddonCount>
@@ -16,7 +16,7 @@
  * 2017-06-01 
 * Исправлена камера видео записи
 * Добавлено приложение OTA Updates
-* Синхронизация исходников Mokee OS(01/06/2017)
+* Синхронизация исходников Mokee OS(28/05/2017)
 * Улучшение сигнала Wi-Fi
  * 2017-06-04 
 * Изменение ОТА-апдейтера
@@ -24,6 +24,7 @@
 * Исправлено OTAUpdatee
 * Bootanimtion   
   * 2017-06-07
-Проверка связи
+* android-7.1.2_r8 -> android-7.1.2_r17
+* Синхронизация исходников Mokee OS(06/06/2017) 
 </Changelog>
 </ROM>
