@@ -2,7 +2,7 @@
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
 <VersionName>MK71.2-NX404H-201706041312-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170604</VersionNumber>
+<VersionNumber type="integer">20170607</VersionNumber>
 <DirectUrl>https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706041312-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
@@ -23,5 +23,7 @@
 * Добавлено приложение FMRadio
 * Исправлено OTAUpdatee
 * Bootanimtion   
+  * 2017-06-07
+Проверка связи
 </Changelog>
 </ROM>
