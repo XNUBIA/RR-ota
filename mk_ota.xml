@@ -35,11 +35,11 @@
 *Project: external/chromium-webview
 * Luca Stefani - Update webviews
 * Project: build
-  •  Tao Bao - Makefile: Add the missing dependency on FUTILITY.
-  •  Tao Bao - Build FUTILITY tool from futility-host
+* Tao Bao - Makefile: Add the missing dependency on FUTILITY.
+* Tao Bao - Build FUTILITY tool from futility-host
 *Project: vendor/mk
-  •  Noam Tamim - Add sensitive numbers for Israel.
+* Noam Tamim - Add sensitive numbers for Israel.
 *Project: vendor/motorola/athene
-  •  martincz - Update proprietary libs 
+* martincz - Update proprietary libs 
 </Changelog>
 </ROM>
