@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706071253-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170607</VersionNumber>
-<DirectUrl>https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706071253-NIGHTLY.zip/download</DirectUrl>
+<VersionName>MK71.2-NX404H-201706101309-NIGHTLY</VersionName>
+<VersionNumber type="integer">20170610</VersionNumber>
+<DirectUrl>https://sourceforge.net/projects/nubia-dev-msm8226/files/nx404h/MK71.2-NX404H-201706101309-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>1AFEBB821AD3D8345F8064654DBB38DF</CheckMD5>
+<CheckMD5>39ED0A962F5FAD2603306725E84F59EA</CheckMD5>
 <FileSize type="integer">32116736</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
@@ -27,5 +27,19 @@
 * android-7.1.2_r8 -> android-7.1.2_r17
 * Синхронизация исходников Mokee OS(06/06/2017)
 * Патч безопасности июня 2017 
+  * 2017-06-10
+*Project: packages/apps/TvSettings
+* martincz - TvSettings: mokee-ify
+*Project: frameworks/base
+* Gabriele M - QS: Remove listeners only if added
+*Project: external/chromium-webview
+* Luca Stefani - Update webviews
+* Project: build
+  •  Tao Bao - Makefile: Add the missing dependency on FUTILITY.
+  •  Tao Bao - Build FUTILITY tool from futility-host
+*Project: vendor/mk
+  •  Noam Tamim - Add sensitive numbers for Israel.
+*Project: vendor/motorola/athene
+  •  martincz - Update proprietary libs 
 </Changelog>
 </ROM>
