@@ -14,33 +14,33 @@
  
 <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
 <Changelog> ### Изменения
- # 2017-06-01 
+ * 2017-06-01 
 * Исправлена камера видео записи
 * Добавлено приложение OTA Updates
 * Синхронизация исходников Mokee OS(28/05/2017)
 * Улучшение сигнала Wi-Fi
- # 2017-06-04 
+ * 2017-06-04 
 * Изменение ОТА-апдейтера
 * Добавлено приложение FMRadio
 * Исправлено OTAUpdatee
 * Bootanimtion   
-  # 2017-06-07
+ * 2017-06-07
 * android-7.1.2_r8 -> android-7.1.2_r17
 * Синхронизация исходников Mokee OS(06/06/2017)
 * Патч безопасности июня 2017 
-  # 2017-06-10
-# Project: packages/apps/TvSettings
+ * 2017-06-10
+* Project: packages/apps/TvSettings
 * martincz - TvSettings: mokee-ify
-# Project: frameworks/base
+* Project: frameworks/base
 * Gabriele M - QS: Remove listeners only if added
 * Project: external/chromium-webview
 * Luca Stefani - Update webviews
-# Project: build
+* Project: build
 * Tao Bao - Makefile: Add the missing dependency on FUTILITY.
 * Tao Bao - Build FUTILITY tool from futility-host
-# Project: vendor/mk
+* Project: vendor/mk
 * Noam Tamim - Add sensitive numbers for Israel.
-# Project: vendor/motorola/athene
+* Project: vendor/motorola/athene
 * martincz - Update proprietary libs 
 </Changelog>
 </ROM>
