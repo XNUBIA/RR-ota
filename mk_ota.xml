@@ -10,9 +10,6 @@
 <FileSize type="integer">8359936</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
-<RomURL>https://romhut.com/roms/aosp-jf-7-0.xml</RomURL>
-<VersionCount>1</VersionCount>
-<VersionsURL>https://romhut.com/roms/aosp-jf-7-0/versions.xml</VersionsURL>
 <AddonCount>2</AddonCount> 
 <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
 <Changelog> ### Изменения
@@ -76,5 +73,4 @@
 * martincz - Revert "Optimised hwui rounded corners shader"
 * Arun - Optimised hwui rounded corners shader
 </Changelog>
- <4pda>Sponsored by 4pda.ru</4pda>
 </ROM>
