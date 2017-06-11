@@ -10,8 +10,10 @@
 <FileSize type="integer">32116736</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
-<AddonCount>2</AddonCount>
- 
+<RomURL>https://romhut.com/roms/aosp-jf-7-0.xml</RomURL>
+<VersionCount type="integer">1</VersionCount>
+<VersionsURL>https://romhut.com/roms/aosp-jf-7-0/versions.xml</VersionsURL>
+<AddonCount>2</AddonCount> 
 <AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
 <Changelog> ### Изменения
  * 2017-06-01 
@@ -44,4 +46,5 @@
 * martincz - Update proprietary libs 
 * Исправлено приложение FM2 
 </Changelog>
+ <4pda>Sponsored by 4pda.ru</4pda>
 </ROM>
