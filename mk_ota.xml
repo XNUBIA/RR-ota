@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706111709-NIGHTLY</VersionName>
+<VersionName>MK71.2-NX404H-201706111315-NIGHTLY</VersionName>
 <VersionNumber type="integer">20170611</VersionNumber>
-<DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706101309-NIGHTLY.zip/download</DirectUrl>
+<DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706111315-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
-<Android>7.1.2 Nougat</Android>
-<CheckMD5>4944CAEA30F665D464502CA1C4AC8A54</CheckMD5>
-<FileSize type="integer">32116736</FileSize>
+<Android>7.1.2-Nougat</Android>
+<CheckMD5>006C02C8BE5BD1D6A19383E0626A1D45</CheckMD5>
+<FileSize type="integer">8359936</FileSize>
 <Developer>Sattarvoybek</Developer>
-<WebsiteURL>https://goo.gl/fvqEXyh</WebsiteURL>
+<WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
 <RomURL>https://romhut.com/roms/aosp-jf-7-0.xml</RomURL>
 <VersionCount>1</VersionCount>
 <VersionsURL>https://romhut.com/roms/aosp-jf-7-0/versions.xml</VersionsURL>
@@ -45,6 +45,36 @@
 * Project: vendor/motorola/athene
 * martincz - Update proprietary libs 
 * Исправлено приложение FM2 
+ * 2017-06-11
+* Project: packages/services/Telephony
+* artanis - Automatic translation import
+* Project: packages/apps/SetupWizard
+* artanis - Automatic translation import
+* Project: packages/apps/Jelly
+* artanis - Automatic translation import
+* Project: packages/apps/MKParts
+* artanis - Automatic translation import
+* Project: packages/apps/Venus
+* artanis - Automatic translation import
+* Project: packages/apps/Recorder
+* artanis - Automatic translation import
+* Project: packages/apps/Snap
+* artanis - Automatic translation import
+* Project: packages/apps/AmazeFileManager
+* artanis - Automatic translation import
+* Project: packages/apps/CustomTiles
+* artanis - Automatic translation import
+* Project: packages/apps/MKCenter
+* artanis - Automatic translation import
+* Project: packages/apps/Settings
+* artanis - Automatic translation import
+* Project: packages/apps/PackageInstaller
+* artanis - Automatic translation import
+* Project: frameworks/base
+* Ícaro Hoff - fingerprint: handle PerformanceStats NULL pointers
+* artanis - Automatic translation import
+* martincz - Revert "Optimised hwui rounded corners shader"
+* Arun - Optimised hwui rounded corners shader
 </Changelog>
  <4pda>Sponsored by 4pda.ru</4pda>
 </ROM>
