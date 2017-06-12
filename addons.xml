@@ -8,7 +8,7 @@
             <updated-at>2017-05-20</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>6791086</size> <!-- filesize in bytes -->
             <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Kate_Mobile_Pro_40.4-m0n1.ru.apk
+            https://sourceforge.net/projects/nubia-device-nx404h/files/soft/Kate_Mobile_Pro_40.4-m0n1.ru.apk/download
             </download-link>
         </addon>
         <addon>
@@ -48,7 +48,7 @@
             <updated-at>2017-05-24</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>5851608</size> <!-- filesize in bytes -->
             <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/SuperSU%2BPRO%2Bv2.82SR1.zip
+            https://sourceforge.net/projects/nubia-device-nx404h/files/soft/SuperSU%2BPRO%2Bv2.82SR1.zip/download
             </download-link>
         </addon>
         <addon>
@@ -59,16 +59,6 @@
             <size>6450022</size> <!-- filesize in bytes -->
             <download-link>
             http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Magisk-v12.0.zip
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Open GAPPS</name> <!-- The name, simples -->
-            <description>Pico</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-11</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>119189163</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/open_gapps-arm64-7.1-pico-20170611.zip
             </download-link>
         </addon>
         <addon>
