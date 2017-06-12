@@ -1,76 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hash>
     <addons>
-	<addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Radon Kernel 4.9</name> <!-- The name, simples -->
-            <description>Radon-V4.9-Kenzo-Cm-Ng</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>11741012</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Radon-V4.9-Kenzo-Cm-Ng.zip
-            </download-link>
-        </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>ElementalX-RN3</name> <!-- The name, simples -->
-            <description>ElementalX-RN3-3.06-los</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-27</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>12204719</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/ElementalX-RN3-3.11-los.zip
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Infected_Kenzo_R5</name> <!-- The name, simples -->
-            <description>Infected_Kenzo_R5_Kernel</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-23</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>12550453</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Infected_Kenzo_R5.zip
-            </download-link>
-        </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>FrancoKernel</name> <!-- The name, simples -->
-            <description>FrancoKernel-R6</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-09</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>10431916</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/fk-r6-anykernel2.zip
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>AGNi_pureCM-N</name> <!-- The name, simples -->
-            <description>AGNi_pureCM-N_v8.6</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-10</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>13997500</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/AGNi_pureCM-N_v8.6_kenzo.zip
-            </download-link>
-        </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>GUYVER</name> <!-- The name, simples -->
-            <description>GUYVER-kernel-3.7.3</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-07</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>12522306</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/LOS%20v3.7.3.zip
-            </download-link>
-        </addon>
-        <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Kate Mobile Pro</name> <!-- The name, simples -->
-            <description>v40.0 Последняя версия с КЭШ</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-15</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>6619022</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Kate_Mobile_Pro_40-m0n1.ru.apk
-            </download-link>
-        </addon>
         <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>Kate Mobile Pro</name> <!-- The name, simples -->
@@ -79,16 +9,6 @@
             <size>6791086</size> <!-- filesize in bytes -->
             <download-link>
             http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Kate_Mobile_Pro_40.4-m0n1.ru.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Viber lite</name> <!-- The name, simples -->
-            <description>Viber lite mod v 6.9.1.16</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>17675052</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Viber-6.9.1.16-arm7-ultra.apk
             </download-link>
         </addon>
         <addon>
@@ -182,16 +102,6 @@
             </download-link>
         </addon>
         <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Nano Mod Patched MICROG</name> <!-- The name, simples -->
-            <description>New version</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-10</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>5833482</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/NanoMod-Patcher-%2810.06.17%29.zip
-            </download-link>
-        </addon>
-        <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>Titanium Backup PRO</name> <!-- The name, simples -->
             <description>Titanium+Backup-PRO-8.0.1</description> <!-- You can use markdown here if you want -->
@@ -241,16 +151,6 @@
             http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Lucky%2BPatcher-6.4.9.apk
             </download-link>
         </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Substratum</name> <!-- The name, simples -->
-            <description>Substratum v782</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>44560538</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/substratum%2Bseven%2Bhundred%2Beighty%2Btwo.apk
-            </download-link>
-        </addon>
 		 <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>App4pda</name> <!-- The name, simples -->
@@ -271,17 +171,7 @@
             http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/YouTube_12.10.60-3.5U.apk
             </download-link>
         </addon>
-		 <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>OG YouTube</name> <!-- The name, simples -->
-            <description>OGYouTube v2.1</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-03-19</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>3420476</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/microG%20for%20OGYT_0.2.4-81-gb1e98ea-dirty.apk
-            </download-link>
-        </addon>
-		  <addon>
+  <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>Elavan Music</name> <!-- The name, simples -->
             <description>v 12.1</description> <!-- You can use markdown here if you want -->
