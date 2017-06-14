@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706111315-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170611</VersionNumber>
-<DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706111315-NIGHTLY.zip/download</DirectUrl>
+<VersionName>MK71.2-NX404H-201706121221-NIGHTLY</VersionName>
+<VersionNumber type="integer">20170612</VersionNumber>
+<DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706121221-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>006C02C8BE5BD1D6A19383E0626A1D45</CheckMD5>
-<FileSize type="integer">8359936</FileSize>
+<CheckMD5>464664B65BF9022ECD2B913868726BA1</CheckMD5>
+<FileSize type="integer">4734976</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
 <DonateURL>https://money.yandex.ru/t_openstat=template%3Bipulldown%3Btopupme</DonateURL>
@@ -75,5 +75,9 @@ http://185.123.15.250/kenzo/O_dinochka/lite/AEX/addonsLite.xml
 * artanis - Automatic translation import
 * martincz - Revert "Optimised hwui rounded corners shader"
 * Arun - Optimised hwui rounded corners shader
+ * Сборка от 12.06.17 R17 
+* Графичиские изменения
+* Перевод новых функций Settings
+* АБСОЛЮТНО НОВЫЙ ОТА АпДЕЙТЕР
 </Changelog>
 </ROM>
