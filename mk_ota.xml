@@ -12,7 +12,7 @@
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
 #<DonateURL>https://money.yandex.ru/t_openstat=template%3Bipulldown%3Btopupme</DonateURL>
 <AddonCount>2</AddonCount> 
-<AddonsURL>http://185.123.15.250/kenzo/O_dinochka/lite/AEX/addonsLite.xml</AddonsURL>
+<AddonsURL>https://raw.githubusercontent.com/sattarvoybek/mk-ota/master/addons.xml</AddonsURL>
 <Changelog> ### Изменения
  * 2017-06-01 
 * Исправлена камера видео записи
