@@ -3,18 +3,16 @@
 <RomName>MK71.2-NX404H</RomName>
 <VersionName>MK71.2-NX404H-201706141321-NIGHTLY</VersionName>
 <VersionNumber type="integer">20170614</VersionNumber>
-<DirectUrl>https://dl.dropbox.com/s/fbh1hnwc7fexiov/MK71.2-NX404H-201706141256-NIGHTLY.zip</DirectUrl>
+<DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706181246-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>cf4a8a42567d50f3644e9d8e472c2b95</CheckMD5>
+<CheckMD5>8bf1ed9b360771c249f63232fa12bd7a</CheckMD5>
 <FileSize type="integer">4734976</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
-<DonateURL>https://money.yandex.ru/t_openstat=template%3Bipulldown%3Btopupme</DonateURL>
+#<DonateURL>https://money.yandex.ru/t_openstat=template%3Bipulldown%3Btopupme</DonateURL>
 <AddonCount>2</AddonCount> 
-<AddonsURL>
-http://185.123.15.250/kenzo/O_dinochka/lite/AEX/addonsLite.xml
-</AddonsURL>
+<AddonsURL>http://185.123.15.250/kenzo/O_dinochka/lite/AEX/addonsLite.xml</AddonsURL>
 <Changelog> ### Изменения
  * 2017-06-01 
 * Исправлена камера видео записи
@@ -79,5 +77,6 @@ http://185.123.15.250/kenzo/O_dinochka/lite/AEX/addonsLite.xml
 * Графичиские изменения
 * Перевод новых функций Settings
 * АБСОЛЮТНО НОВЫЙ ОТА АпДЕЙТЕР
+ * Сборка от 18.06.17
 </Changelog>
 </ROM>
