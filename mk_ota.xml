@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706181246-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170618</VersionNumber>
+<VersionName>MK71.2-NX404H-201706141246-NIGHTLY</VersionName>
+<VersionNumber type="integer">20170614</VersionNumber>
 <DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706181246-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
