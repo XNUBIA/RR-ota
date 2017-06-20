@@ -2,214 +2,52 @@
 <hash>
     <addons>
         <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Kate Mobile Pro</name> <!-- The name, simples -->
-            <description>Kate Mobile Pro v40.4</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-20</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>6791086</size> <!-- filesize in bytes -->
-            <download-link>
-            https://sourceforge.net/projects/nubia-device-nx404h/files/soft/Kate_Mobile_Pro_40.4-m0n1.ru.apk/download
-            </download-link>
-        </addon>
+            <id>1</id>
+            <name>Open gapps</name>
+            <description>micro</description>
+            <published-at>2017-06-03</published-at>
+            <size>226427849</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/gapps/open/open_gapps-arm-7.1-micro-20170603.zip/download</download-link>
+        </addon>         
+    </addons>
+    <addons>
         <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Viber full</name> <!-- The name, simples -->
-            <description>Viber 6.9.1.16 GP</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>32845906</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Viber-6.9.1.16-arm.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Telegram 4.0.1</name> <!-- The name, simples -->
-            <description>Telegram_v4.0.1_9923 RusLang</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-21</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>11602315</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Telegram_v4.0.1_9923%28arm%29_A6_RUS_by_Breathe_of_fate.apk
-            </download-link>
-        </addon>
+            <id>2</id>
+            <name>Open gapps</name>
+            <description>nano</description>
+            <published-at>2017-06-03</published-at>
+            <size>195588737</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/gapps/open/open_gapps-arm-7.1-nano-20170603.zip/download</download-link>
+        </addon>         
+    </addons>
+	<addons>
         <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>WhatsApp mod</name> <!-- The name, simples -->
-            <description>Mod</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-01</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>36372176</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/GBWAPlus%20v5.60-2.17.146%20By%20Hassan.apk
-            </download-link>
-        </addon>
-		<addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>SuperSU PRO</name> <!-- The name, simples -->
-            <description>SuperSU PRO 2.82SR1</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-24</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>5851608</size> <!-- filesize in bytes -->
-            <download-link>
-            https://sourceforge.net/projects/nubia-device-nx404h/files/soft/SuperSU%2BPRO%2Bv2.82SR1.zip/download
-            </download-link>
-        </addon>
+            <id>3</id>
+            <name>Open gapps</name>
+            <description>pico</description>
+            <published-at>2017-06-03</published-at>
+            <size>131839876</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/gapps/open/open_gapps-arm-7.1-pico-20170603.zip/download</download-link>
+        </addon>         
+    </addons>
+	<addons>
         <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Magisk</name> <!-- The name, simples -->
-            <description>Magisk v12</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-29</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>6450022</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Magisk-v12.0.zip
-            </download-link>
-        </addon>
+            <id>4</id>
+            <name>ViPER4Android</name>
+            <description>2.5.0.5</description>
+            <published-at>20170423</published-at>
+            <size>5373952</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/ViPER4Android-2.5.0.5-20170423.zip/download</download-link>
+        </addon>         
+    </addons>	
+	<addons>
         <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Root Explorer</name> <!-- The name, simples -->
-            <description>RE v4.1.4 pathed</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-27</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>4023516</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Root%2BExplorer%2Bv4.1.4P.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Wakelock Detected</name> <!-- The name, simples -->
-            <description>Full PRO 2.0.4.27</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-07</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>1571033</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Wakelock.Detector.Full.2.0.4.27.en-ru.sign.round.icon.apk
-            </download-link>
-        </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>AdAway</name> <!-- The name, simples -->
-            <description>AdAway v3.2 mod</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-03-07</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>2303010</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/adaway-v3.2-bld080217-ultra-arm64.apk
-            </download-link>
-        </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Titanium Backup PRO</name> <!-- The name, simples -->
-            <description>Titanium+Backup-PRO-8.0.1</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-28</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>6791086</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Titanium%2BBackup-PRO-8.0.1.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>EX Kernel manager</name> <!-- The name, simples -->
-            <description>Patched 2.101</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-02-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>4388554</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/EXKernelManager_v2.101LITE.apk
-            </download-link>
-        </addon>
-        <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Kernel Adiutor</name> <!-- The name, simples -->
-            <description>Kernel Adiutor v0.9.6.11</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-04-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>3885001</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Kernel%2BAdiutor%2BDonate%2Bv0.9.6.11.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>ForPDA Client</name> <!-- The name, simples -->
-            <description>v 1.5.41</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-01</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>2967053</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/4PDA%20%201.5.41.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Lucky Patcher</name> <!-- The name, simples -->
-            <description>Patcher v-6.4.9</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-01</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>5958505</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Lucky%2BPatcher-6.4.9.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>App4pda</name> <!-- The name, simples -->
-            <description>v5.0.beta.17.3</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-04-09</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>3420476</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/substratum%2Bseven%2Bhundred%2Beighty%2Btwo.apk
-            </download-link>
-        </addon>
-		<addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>YouTube</name> <!-- The name, simples -->
-            <description>YouTube 12.10.60-3.5U</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-05-27</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>45062348</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/YouTube_12.10.60-3.5U.apk
-            </download-link>
-        </addon>
-  <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Elavan Music</name> <!-- The name, simples -->
-            <description>v 12.1</description> <!-- You can use markdown here if you want -->
-            <updated-at>2016-03-04</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>6043013</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/substratum%2Bseven%2Bhundred%2Beighty%2Btwo.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Phonograph Music Player</name> <!-- The name, simples -->
-            <description>Player v0.15.0 BETA 2</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-09</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>4185065</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Phonograph%2Bv0.15.0%2BBETA%2B2.apk
-            </download-link>
-        </addon>
-		<addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Pixel Plus Player </name> <!-- The name, simples -->
-            <description>v 3.4</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-04-01</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>5461939</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Pixel%2BPlus%2Bv3.4.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Nova Launcher Prime</name> <!-- The name, simples -->
-            <description>Prime v5.2</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-09</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>4058788</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Nova%2BLauncher%2BPrime%2Bv5.2.arm64.apk
-            </download-link>
-        </addon>
-		 <addon>
-            <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Pixel launcher O</name> <!-- The name, simples -->
-            <description>O-3952143-201</description> <!-- You can use markdown here if you want -->
-            <updated-at>2017-06-09</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>2601976</size> <!-- filesize in bytes -->
-            <download-link>
-            http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/Soft_market/Nexuslauncher_O-3952143-201.apk
-            </download-link>
-        </addon>
+            <id>5</id>
+            <name>Reveal Audio Mod</name>
+            <description>Reveal Audio</description>
+            <published-at>31.05.17</published-at>
+            <size>4096</size>
+            <download-link>https://sourceforge.net/projects/nubia-dev-msm8226/files/Reveal_Amplio.zip/download</download-link>
+        </addon>         
     </addons>
 </hash>
