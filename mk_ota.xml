@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>MK71.2-NX404H</RomName>
-<VersionName>MK71.2-NX404H-201706141246-NIGHTLY</VersionName>
-<VersionNumber type="integer">20170614</VersionNumber>
+<VersionName>MK71.2-NX404H-201706181246-NIGHTLY</VersionName>
+<VersionNumber type="integer">20170618</VersionNumber>
 <DirectUrl>https://sourceforge.net/projects/nubia-device-nx404h/files/nx404h/MK71.2-NX404H-201706181246-NIGHTLY.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>8bf1ed9b360771c249f63232fa12bd7a</CheckMD5>
-<FileSize type="integer">6201344</FileSize>
+<CheckMD5>49ADA130240765DBE5F1DD9D19B6162B</CheckMD5>
+<FileSize type="integer">18386944</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
 #<DonateURL>https://money.yandex.ru/t_openstat=template%3Bipulldown%3Btopupme</DonateURL>
@@ -77,6 +77,6 @@
 * Графичиские изменения
 * Перевод новых функций Settings
 * АБСОЛЮТНО НОВЫЙ ОТА АпДЕЙТЕР
- * Сборка от 18.06.17
+ * TEST BETA v0.1 от 18.06.17
 </Changelog>
 </ROM>
