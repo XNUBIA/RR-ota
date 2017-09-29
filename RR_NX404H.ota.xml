@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>RR-NX404H</RomName>
+<VersionName>RR-N-v5.8.5-20170926-NX404H-Unofficial</VersionName>
+<VersionNumber type="integer">20170929</VersionNumber>
+<DirectUrl>http://winkarbik.cloudapp.net/zte/x9180/full/RR-N-v5.8.5-20170929-NX404H-Unofficial.zip</DirectUrl>
+<HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>F5B62B9CECF7D007C05B2FC9DB4B24CE</CheckMD5>
+<FileSize type="integer">23379968</FileSize>
+<Developer>Sattarvoybek</Developer>
+<WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
+<Changelog> ### Изменения
+ TEST OTA UPDATE
+</Changelog>
+</ROM>
