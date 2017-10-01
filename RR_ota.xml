@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>RR-NE501J</RomName>
-<VersionName>RR-N-v5.8.5-20170929-NE501J-Unofficial</VersionName>
-<VersionNumber type="integer">20170929</VersionNumber>
-<DirectUrl>http://winkarbik.cloudapp.net/zte/x9180/RR-N-v5.8.5-20170929-NE501J-Unofficial.zip</DirectUrl>
+<VersionName>RR-N-v5.8.5-20170930-NE501J-Unofficial</VersionName>
+<VersionNumber type="integer">20170930</VersionNumber>
+<DirectUrl>https://sourceforge.net/projects/resurrectionremixos/files/ota_v7.1.2_NE501J_f4892d9ee6_42b9fadf59.zip/download</DirectUrl>
 <HttpUrl>https://goo.gl/LNcgtG</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>34bdfdfd7304695887639fce99923e8d</CheckMD5>
-<FileSize type="integer">388292675</FileSize>
+<CheckMD5>df52817d36ddb9ed9428d75e1b94131e</CheckMD5>
+<FileSize type="integer">8647147</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
 <Changelog> ### Изменения
  TEST OTA UPDATE
+ 30.09.2017
+ Update touchscreen from z7 mini
 </Changelog>
 </ROM>
