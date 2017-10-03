@@ -10,6 +10,8 @@
 <FileSize type="integer">388292675</FileSize>
 <Developer>Sattarvoybek</Developer>
 <WebsiteURL>https://goo.gl/ciLpJD</WebsiteURL>
+  <AddonCount>1</AddonCount>
+  <AddonsURL>https://ftp.tex-host.ru/addons.xml</AddonsURL>
 <Changelog> ### Изменения
  TEST OTA UPDATE
 </Changelog>
